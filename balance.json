@@ -1,107 +1,107 @@
 {
-  "equity": 100135.81,
+  "equity": 100126.26,
   "market_open": true,
-  "updated_kst": "2026-06-02 04:01:48 KST",
-  "updated_epoch": 1780340508,
+  "updated_kst": "2026-06-02 04:06:53 KST",
+  "updated_epoch": 1780340813,
   "n_positions": 14,
   "positions": [
     {
       "symbol": "TIP",
       "side": "long",
-      "market_value": 25021.62351,
-      "unrealized_pl": 15.932991,
-      "unrealized_plpc": 0.00064
+      "market_value": 25018.209297,
+      "unrealized_pl": 12.518778,
+      "unrealized_plpc": 0.0005
     },
     {
       "symbol": "SPY",
       "side": "long",
-      "market_value": 14789.573434,
-      "unrealized_pl": 48.867017,
-      "unrealized_plpc": 0.00332
+      "market_value": 14789.768123,
+      "unrealized_pl": 49.061706,
+      "unrealized_plpc": 0.00333
     },
     {
       "symbol": "VNQ",
       "side": "long",
-      "market_value": 14734.007637,
-      "unrealized_pl": -30.421213,
-      "unrealized_plpc": -0.00206
+      "market_value": 14725.442895,
+      "unrealized_pl": -38.985955,
+      "unrealized_plpc": -0.00264
     },
     {
       "symbol": "IEF",
       "side": "short",
-      "market_value": -12704.175,
-      "unrealized_pl": -22.275,
-      "unrealized_plpc": -0.00176
+      "market_value": -12702.15,
+      "unrealized_pl": -20.25,
+      "unrealized_plpc": -0.0016
     },
     {
       "symbol": "QQQ",
       "side": "long",
-      "market_value": 11184.855795,
-      "unrealized_pl": 35.867998,
-      "unrealized_plpc": 0.00322
+      "market_value": 11187.561282,
+      "unrealized_pl": 38.573485,
+      "unrealized_plpc": 0.00346
     },
     {
       "symbol": "LQD",
       "side": "long",
-      "market_value": 10370.077443,
-      "unrealized_pl": 15.251516,
-      "unrealized_plpc": 0.00147
+      "market_value": 10368.171003,
+      "unrealized_pl": 13.345076,
+      "unrealized_plpc": 0.00129
     },
     {
       "symbol": "IWM",
       "side": "long",
-      "market_value": 10027.860739,
-      "unrealized_pl": 62.925267,
-      "unrealized_plpc": 0.00631
+      "market_value": 10023.712853,
+      "unrealized_pl": 58.777381,
+      "unrealized_plpc": 0.0059
     },
     {
       "symbol": "EFA",
       "side": "long",
-      "market_value": 9437.548048,
-      "unrealized_pl": 38.722319,
-      "unrealized_plpc": 0.00412
+      "market_value": 9438.90123,
+      "unrealized_pl": 40.075501,
+      "unrealized_plpc": 0.00426
     },
     {
       "symbol": "DBC",
       "side": "long",
-      "market_value": 8505.72942,
-      "unrealized_pl": -59.540106,
-      "unrealized_plpc": -0.00695
+      "market_value": 8500.058934,
+      "unrealized_pl": -65.210592,
+      "unrealized_plpc": -0.00761
     },
     {
       "symbol": "EMB",
       "side": "long",
-      "market_value": 8482.460217,
-      "unrealized_pl": 10.183551,
-      "unrealized_plpc": 0.0012
+      "market_value": 8481.575936,
+      "unrealized_pl": 9.29927,
+      "unrealized_plpc": 0.0011
     },
     {
       "symbol": "TLT",
       "side": "short",
-      "market_value": -6910.3125,
-      "unrealized_pl": -19.6425,
-      "unrealized_plpc": -0.00285
+      "market_value": -6907.4775,
+      "unrealized_pl": -16.8075,
+      "unrealized_plpc": -0.00244
     },
     {
       "symbol": "EEM",
       "side": "long",
-      "market_value": 6823.229847,
-      "unrealized_pl": 32.558678,
-      "unrealized_plpc": 0.00479
+      "market_value": 6828.089351,
+      "unrealized_pl": 37.418182,
+      "unrealized_plpc": 0.00551
     },
     {
       "symbol": "IGOV",
       "side": "long",
-      "market_value": 6073.17281,
-      "unrealized_pl": 1.479236,
-      "unrealized_plpc": 0.00024
+      "market_value": 6073.900136,
+      "unrealized_pl": 2.206562,
+      "unrealized_plpc": 0.00036
     },
     {
       "symbol": "GLD",
       "side": "long",
-      "market_value": 2584.43764,
-      "unrealized_pl": 5.917464,
-      "unrealized_plpc": 0.00229
+      "market_value": 2584.505404,
+      "unrealized_pl": 5.985228,
+      "unrealized_plpc": 0.00232
     }
   ]
 }
