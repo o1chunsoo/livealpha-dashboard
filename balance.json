@@ -1,107 +1,107 @@
 {
-  "equity": 100126.26,
+  "equity": 100109.62,
   "market_open": true,
-  "updated_kst": "2026-06-02 04:06:53 KST",
-  "updated_epoch": 1780340813,
+  "updated_kst": "2026-06-02 04:11:57 KST",
+  "updated_epoch": 1780341117,
   "n_positions": 14,
   "positions": [
     {
       "symbol": "TIP",
       "side": "long",
-      "market_value": 25018.209297,
-      "unrealized_pl": 12.518778,
-      "unrealized_plpc": 0.0005
+      "market_value": 25021.600748,
+      "unrealized_pl": 15.910229,
+      "unrealized_plpc": 0.00064
     },
     {
       "symbol": "SPY",
       "side": "long",
-      "market_value": 14789.768123,
-      "unrealized_pl": 49.061706,
-      "unrealized_plpc": 0.00333
+      "market_value": 14788.307954,
+      "unrealized_pl": 47.601537,
+      "unrealized_plpc": 0.00323
     },
     {
       "symbol": "VNQ",
       "side": "long",
-      "market_value": 14725.442895,
-      "unrealized_pl": -38.985955,
-      "unrealized_plpc": -0.00264
+      "market_value": 14718.407015,
+      "unrealized_pl": -46.021835,
+      "unrealized_plpc": -0.00312
     },
     {
       "symbol": "IEF",
       "side": "short",
-      "market_value": -12702.15,
-      "unrealized_pl": -20.25,
-      "unrealized_plpc": -0.0016
+      "market_value": -12702.825,
+      "unrealized_pl": -20.925,
+      "unrealized_plpc": -0.00165
     },
     {
       "symbol": "QQQ",
       "side": "long",
-      "market_value": 11187.561282,
-      "unrealized_pl": 38.573485,
-      "unrealized_plpc": 0.00346
+      "market_value": 11188.989177,
+      "unrealized_pl": 40.00138,
+      "unrealized_plpc": 0.00359
     },
     {
       "symbol": "LQD",
       "side": "long",
-      "market_value": 10368.171003,
-      "unrealized_pl": 13.345076,
-      "unrealized_plpc": 0.00129
+      "market_value": 10370.077443,
+      "unrealized_pl": 15.251516,
+      "unrealized_plpc": 0.00147
     },
     {
       "symbol": "IWM",
       "side": "long",
-      "market_value": 10023.712853,
-      "unrealized_pl": 58.777381,
-      "unrealized_plpc": 0.0059
+      "market_value": 10012.478994,
+      "unrealized_pl": 47.543522,
+      "unrealized_plpc": 0.00477
     },
     {
       "symbol": "EFA",
       "side": "long",
-      "market_value": 9438.90123,
-      "unrealized_pl": 40.075501,
-      "unrealized_plpc": 0.00426
+      "market_value": 9435.743804,
+      "unrealized_pl": 36.918075,
+      "unrealized_plpc": 0.00393
     },
     {
       "symbol": "DBC",
       "side": "long",
-      "market_value": 8500.058934,
-      "unrealized_pl": -65.210592,
+      "market_value": 8500.087286,
+      "unrealized_pl": -65.18224,
       "unrealized_plpc": -0.00761
     },
     {
       "symbol": "EMB",
       "side": "long",
-      "market_value": 8481.575936,
-      "unrealized_pl": 9.29927,
-      "unrealized_plpc": 0.0011
+      "market_value": 8482.460217,
+      "unrealized_pl": 10.183551,
+      "unrealized_plpc": 0.0012
     },
     {
       "symbol": "TLT",
       "side": "short",
-      "market_value": -6907.4775,
-      "unrealized_pl": -16.8075,
-      "unrealized_plpc": -0.00244
+      "market_value": -6908.085,
+      "unrealized_pl": -17.415,
+      "unrealized_plpc": -0.00253
     },
     {
       "symbol": "EEM",
       "side": "long",
-      "market_value": 6828.089351,
-      "unrealized_pl": 37.418182,
-      "unrealized_plpc": 0.00551
+      "market_value": 6829.547203,
+      "unrealized_pl": 38.876034,
+      "unrealized_plpc": 0.00572
     },
     {
       "symbol": "IGOV",
       "side": "long",
-      "market_value": 6073.900136,
-      "unrealized_pl": 2.206562,
-      "unrealized_plpc": 0.00036
+      "market_value": 6073.17281,
+      "unrealized_pl": 1.479236,
+      "unrealized_plpc": 0.00024
     },
     {
       "symbol": "GLD",
       "side": "long",
-      "market_value": 2584.505404,
-      "unrealized_pl": 5.985228,
-      "unrealized_plpc": 0.00232
+      "market_value": 2583.940704,
+      "unrealized_pl": 5.420528,
+      "unrealized_plpc": 0.0021
     }
   ]
 }
