@@ -1,0 +1,107 @@
+{
+  "equity": 100144.97,
+  "market_open": true,
+  "updated_kst": "2026-06-02 03:59:04 KST",
+  "updated_epoch": 1780340344,
+  "n_positions": 14,
+  "positions": [
+    {
+      "symbol": "TIP",
+      "side": "long",
+      "market_value": 25018.209297,
+      "unrealized_pl": 12.518778,
+      "unrealized_plpc": 0.0005
+    },
+    {
+      "symbol": "SPY",
+      "side": "long",
+      "market_value": 14791.715017,
+      "unrealized_pl": 51.0086,
+      "unrealized_plpc": 0.00346
+    },
+    {
+      "symbol": "VNQ",
+      "side": "long",
+      "market_value": 14732.447575,
+      "unrealized_pl": -31.981275,
+      "unrealized_plpc": -0.00217
+    },
+    {
+      "symbol": "IEF",
+      "side": "short",
+      "market_value": -12702.15,
+      "unrealized_pl": -20.25,
+      "unrealized_plpc": -0.0016
+    },
+    {
+      "symbol": "QQQ",
+      "side": "long",
+      "market_value": 11186.584301,
+      "unrealized_pl": 37.596504,
+      "unrealized_plpc": 0.00337
+    },
+    {
+      "symbol": "LQD",
+      "side": "long",
+      "market_value": 10370.554053,
+      "unrealized_pl": 15.728126,
+      "unrealized_plpc": 0.00152
+    },
+    {
+      "symbol": "IWM",
+      "side": "long",
+      "market_value": 10029.589025,
+      "unrealized_pl": 64.653553,
+      "unrealized_plpc": 0.00649
+    },
+    {
+      "symbol": "EFA",
+      "side": "long",
+      "market_value": 9440.705474,
+      "unrealized_pl": 41.879745,
+      "unrealized_plpc": 0.00446
+    },
+    {
+      "symbol": "DBC",
+      "side": "long",
+      "market_value": 8505.72942,
+      "unrealized_pl": -59.540106,
+      "unrealized_plpc": -0.00695
+    },
+    {
+      "symbol": "EMB",
+      "side": "long",
+      "market_value": 8482.018076,
+      "unrealized_pl": 9.74141,
+      "unrealized_plpc": 0.00115
+    },
+    {
+      "symbol": "TLT",
+      "side": "short",
+      "market_value": -6908.895,
+      "unrealized_pl": -18.225,
+      "unrealized_plpc": -0.00264
+    },
+    {
+      "symbol": "EEM",
+      "side": "long",
+      "market_value": 6824.687698,
+      "unrealized_pl": 34.016529,
+      "unrealized_plpc": 0.00501
+    },
+    {
+      "symbol": "IGOV",
+      "side": "long",
+      "market_value": 6073.17281,
+      "unrealized_pl": 1.479236,
+      "unrealized_plpc": 0.00024
+    },
+    {
+      "symbol": "GLD",
+      "side": "long",
+      "market_value": 2584.285799,
+      "unrealized_pl": 5.765623,
+      "unrealized_plpc": 0.00224
+    }
+  ]
+}
